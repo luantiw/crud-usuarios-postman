@@ -1,0 +1,1 @@
+curl --location '{{baseUrl}}/posts/1'

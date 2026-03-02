@@ -1,0 +1,1 @@
+curl --location --request DELETE '{{baseUrl}}/posts/1'
