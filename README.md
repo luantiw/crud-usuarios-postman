@@ -18,7 +18,7 @@ CRUD API automation Postman Luantiw.
 
 # QA API Portfolio – Postman
 
-## Project
+## Projeto
 CRUD API automation Postman Luantiw.
 
 ## Features
